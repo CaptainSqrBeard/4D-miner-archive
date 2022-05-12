@@ -5,7 +5,7 @@ Contains all 4D Miner versions and community content for this game
 4D Miner is a survival-sandbox with four dimensions that was inspired by minecraft.
 Mashpoe is author of 4D miner
 
-#Official 4D Miner Pages
+###### Official 4D Miner Pages
 * Wiki: https://4d-miner.fandom.com/wiki/4D_Miner_Wiki
 * Subreddit: https://www.reddit.com/r/4D_Miner/
 * Website: https://mashpoe.com/4d-miner
