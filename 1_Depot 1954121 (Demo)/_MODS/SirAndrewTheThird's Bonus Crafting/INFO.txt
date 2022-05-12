@@ -1,0 +1,45 @@
+[SirAndrewTheThird's Bonus Crafting]
+*Recipes Overhaul*
+
+By: SirAndrewTheThird#7928 (320599509782757376)
+
+[Data]
+Published at: 04.05.2022 1:57:27 GMT
+Raw Discord Timestamp: "2022-05-04T01:57:27.697000+00:00"
+
+
+
+
+[Recipes]
+20 Stick from Wood
++20 Stick from Midnight Wood [Compatibility]
+
+5 Rock from 1 Stone
++5 Rock from Midnight Stone [Compatibility]
+
+1 Hammer from 1 Rock, 1 Hypersilk, and 1 Stick
+
+1 Iron Bars from 1 Iron ore and 1 Wood
++1 Iron Bars from 1 Iron ore and 1 Midnight Wood [Compatibility]
+1 Deadly Bars from 1 Deadly ore and 1 Wood
++1 Deadly Bars from 1 Deadly ore and 1 Midnight Wood [Compatibility]
+
+1 Iron Pick from 1 Stick and 2 Iron Bars
+1 Deadly Pick from 1 Stick and 2 Deadly Bars
+1 Compass from 1 Hypersilk, 3 Deadly Bars, and 1 Iron Bars
+
+1 Chest from 3 Iron Bars and 1 Wood
++1 Chest from 3 Iron Bars and 1 Midnight Wood [Compatibility]
+
++1 Iron Axe from 1 Stick and 3 Iron Bars [INCOMPLETE FEATURE]
++1 Deadly Axe from 1 Stick and 3 Deadly Bars [INCOMPLETE FEATURE]
+
+1 4D Glasses from 3 Iron Bars and 3 Deadly Bars
+
++1 Stone from 5 Rock and 1 Hypersilk [Think of it as gluing the Stone back together]
++1 Midnight Stone from 5 Rock and 1 Hypersilk [Acts as a way to convert between Midnight Stone and Stone]
++1 Wood from 20 Stick and 1 Hypersilk [Same as Stone. Its like binding the sticks back into a log]
++1 Midnight Wood from 20 Stick and 1 Hypersilk [Also acts as a conversion between Midnight Wood and Wood]
+
++1 Klein Bottle from 1 Health Potion [Represents pouring out the potion]
++5 Health Potion from 1 Deadly Bars, 5 Hypersilk, and 5 Klein Bottle [Way to craft new potions]

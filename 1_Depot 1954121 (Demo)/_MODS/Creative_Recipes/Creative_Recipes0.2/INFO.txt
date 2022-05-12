@@ -1,0 +1,52 @@
+Creative Recipes 0.2
+by csqrb#7132 (704678264186077264)
+*Recipes override*
+
+
+[Install]
+1. Open game directory
+2. Replace "recipes.json" in directory with modded "recipes.json" from Mod folder.
+  └   You can make backup, but mod folder already have one in "Backup" folder
+3. Re-enter to your world
+
+
+[Uninstall]
+1. Open game directory
+2. Replace "recipes.json" in directory with "recipes.json" from "$Mod_Folder$/Backup".
+  └   Name of replaced file must be "recipes.json"
+3. Re-enter to your world
+
+
+[Using]
+Mod allows you to get any in-game item (even unobtainable) in Crafting Menu
+Because recipes must have items to result, it use one rock for every item
+You can get rocks by exchanging sticks or dupe them in Crafting Menu
+
+ - Purge: You can exchange any item in your inventory to rocks.
+          Also you can purge 10 or 25 blocks and hypersilk at once.
+ - If wanna get rid from rocks, you can purge them too (Tameno#0647 idea)
+ - Also you can exchange one rock to multiple rocks - 1:2, 1:25, 1:50
+
+
+[Recipes Order]
+ 1. Stick to Rocks
+ 2. Rock Duping
+ 3. Items
+    1. Tools
+    2. Navigation
+    3. Materials
+    4. Functional blocks (Chest)
+    5. Ores
+    6. Grassy Hills' Blocks
+    7. Midnight Blocks
+    8. Potions
+    9. Unobtainable
+ 4. Items Purging (Goes in the same order as items)
+ 5. Rock Purging 
+
+
+[Changelog 0.2]
+ - Added stone purging (Tameno#0647 idea)
+ - Added recipes to purge 10 and 25 blocks at once. It also applied to hypersilk and lava blocks (but not for chests)
+ - Removed stick to rock exchange, except one that 1:25
+ - Added rock duping

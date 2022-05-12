@@ -1,0 +1,42 @@
+[
+    {
+        "recipe": [{"name": "Wood", "count": 1}],
+        "result": {"name": "Stick", "count": 20}
+    },
+    {
+        "recipe": [{"name": "Stone", "count": 1}],
+        "result": {"name": "Rock", "count": 5}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}, {"name": "Hypersilk", "count":  1}, {"name": "Stick", "count": 1}],
+        "result": {"name": "Hammer", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Iron Ore", "count": 1}, {"name": "Wood", "count": 1}],
+        "result": {"name": "Iron Bars", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Deadly Ore", "count": 1}, {"name": "Wood", "count": 1}],
+        "result": {"name": "Deadly Bars", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Stick", "count": 1}, {"name": "Iron Bars", "count": 2}],
+        "result": {"name": "Iron Pick", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Stick", "count": 1}, {"name": "Deadly Bars", "count": 2}],
+        "result": {"name": "Deadly Pick", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Hypersilk", "count": 1}, {"name": "Deadly Bars", "count": 3}, {"name": "Iron Bars", "count": 1}],
+        "result": {"name": "Compass", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Iron Bars", "count": 3}, {"name": "Wood", "count": 3}],
+        "result": {"name": "Chest", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Iron Bars", "count": 3}, {"name": "Deadly Bars", "count": 3}],
+        "result": {"name": "4D Glasses", "count": 1}
+    }
+]

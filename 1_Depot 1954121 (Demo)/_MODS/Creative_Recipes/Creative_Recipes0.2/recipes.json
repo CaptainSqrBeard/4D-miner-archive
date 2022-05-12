@@ -1,0 +1,417 @@
+[
+    {
+        "recipe": [{"name": "Stick", "count": 1}],
+        "result": {"name": "Rock", "count": 25}
+    },
+	
+	
+	
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Rock", "count": 2}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Rock", "count": 25}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Rock", "count": 50}
+    },
+	
+	
+	
+	
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Deadly Pick", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Iron Pick", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Hammer", "count": 1}
+    },
+	
+	
+	
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "4D Glasses", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Compass", "count": 1}
+    },
+	
+	
+	
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Stick", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Iron Bars", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Deadly Bars", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Hypersilk", "count": 1}
+    },
+	
+	
+	
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Chest", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Iron Ore", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Deadly Ore", "count": 25}
+    },
+	
+	
+	
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Wood", "count": 25}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Leaf", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Grass", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Dirt", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Stone", "count": 25}
+    },
+	
+	
+	
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Midnight Wood", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Midnight Leaf", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Midnight Grass", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Midnight Soil", "count": 25}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Midnight Stone", "count": 25}
+    },
+	
+	
+	
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Health Potion", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Klein Bottle", "count": 1}
+    },
+	
+	
+	
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Iron Axe", "count": 1}
+    },
+    {
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Deadly Axe", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Lava", "count": 1}
+    },
+	{
+        "recipe": [{"name": "Rock", "count": 1}],
+        "result": {"name": "Air", "count": 1}
+    },
+	
+	
+
+	
+	
+	
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Pick", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Pick", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Hammer", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "4D Glasses", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Compass", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Stick", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Bars", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Bars", "count": 1}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Hypersilk", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Hypersilk", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Hypersilk", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Chest", "count": 1}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Ore", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Ore", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Ore", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Ore", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Ore", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Ore", "count": 25}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Wood", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Wood", "count": 25}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Leaf", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Leaf", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Leaf", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Grass", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Grass", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Grass", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Dirt", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Dirt", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Dirt", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Stone", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Stone", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Stone", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Wood", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Wood", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Wood", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Leaf", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Leaf", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Leaf", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Grass", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Grass", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Grass", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Soil", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Soil", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Soil", "count": 25}]
+    },
+	
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Stone", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Stone", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Midnight Stone", "count": 25}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Health Potion", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Klein Bottle", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Iron Axe", "count": 1}]
+    },
+    {
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Deadly Axe", "count": 1}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Lava", "count": 1}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Lava", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Lava", "count": 25}]
+    },
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Air", "count": 1}]
+    },
+	
+	
+	
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Rock", "count": 2}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Rock", "count": 10}]
+    },
+	{
+        "result": {"name": "Rock", "count": 1},
+        "recipe": [{"name": "Rock", "count": 100}]
+    }
+]

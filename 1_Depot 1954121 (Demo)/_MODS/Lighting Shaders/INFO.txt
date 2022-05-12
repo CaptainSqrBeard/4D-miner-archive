@@ -1,0 +1,26 @@
+[Lighting Shaders]
+*Shaders*
+
+By:
+Tameno#0647 (715569164227444766) -- Creator
+* https://www.reddit.com/user/Tameno_
+* https://steamcommunity.com/profiles/76561198269647360
+* https://www.twitch.tv/tameno
+
+Koulatko#9332 (233622170142507009) -- Tameno's quote:
+"i can't overstate how crucial @Koulatko has been for this, he brought all the expertise needed and wrote a lot of the code for this. He even had most ideas before i did! i'm just the one that actually made them happen first" 
+
+
+[No. 1]
+Published at: 03.05.2022 23:33:40 GMT
+Raw Discord Timestamp: "2022-05-03T23:33:40.735000+00:00"
+- Have shining textures
+
+[No. 2]
+Published at: 03.05.2022 23:33:40 GMT
+Raw Discord Timestamp: "2022-05-04T21:06:53.985000+00:00"
+- Have shining textures (with shining map for tiles) and glowing lava
+
+
+[Additions]
+*8beleved (No. 2 (Shiness Map)) -- By Lolzsicka the Dragon#8412 (631605623716315146)

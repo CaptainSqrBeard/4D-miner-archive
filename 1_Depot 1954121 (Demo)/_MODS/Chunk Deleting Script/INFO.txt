@@ -1,0 +1,11 @@
+[Chunk Deleting Script]
+*Python script*
+
+"Deletes all chunks around a specified position (and distance)"
+
+By: ShadowzOfTheDark#2840 (308776344525996034)
+* http://steamcommunity.com/profiles/76561198189435433
+
+[Data]
+Published at: 06.05.2022 01:17:49 GMT
+Raw Discord Timestamp: "2022-05-06T01:17:49.628000+00:00"

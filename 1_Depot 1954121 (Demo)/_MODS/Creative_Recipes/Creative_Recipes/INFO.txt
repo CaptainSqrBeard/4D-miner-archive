@@ -1,0 +1,25 @@
+Creative Recipes
+by csqrb#7132 (704678264186077264)
+*Recipes override*
+
+
+[Install]
+1. Open game directory
+2. Replace "recipes.json" in directory with modded "recipes.json" from Mod folder.
+  └   You can make backup, but mod folder already have one in "Backup" folder
+3. Re-enter to your world
+
+
+[Uninstall]
+1. Open game directory
+2. Replace "recipes.json" in directory with "recipes.json" from "$Mod_Folder$/Backup".
+  └   Name of replaced file must be "recipes.json"
+3. Re-enter to your world
+
+
+[Using]
+Mod allows you to get any in-game item (even unobtainable) by Crafting Menu
+
+You need Rocks to exchange it to any items. You can get them by exchanging sticks
+
+Mod also have purging functionality. You can exchange any item in your inventory to rocks

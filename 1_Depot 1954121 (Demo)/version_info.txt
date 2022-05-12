@@ -1,0 +1,96 @@
+(At 03.05.2022)
+Manifest ID:  6888793789548828361
+Depot ID: 1954121
+Build ID: 8612669
+Creation Date: 23 April 2022 – 23:47:28 UTC
+Last Update: 23 April 2022 – 23:47:42 UTC
+Size on Disk: 156.45 MiB
+Download Size: 81.91 MiB
+
+
+
+Wiki says version of game is "Alpha 0.1", but there's nothing more about it
+So here versions will be named in this form:
+------
+	Title: *INDEX*_*MANIFEST_ID*
+	*INDEX*: From first to last version
+	*MANIFEST_ID*: Value from SteamDB into depot. Basically it's VersionID using by Steam
+------
+SteamDB: https://steamdb.info/depot/1954121/manifests/
+Wiki: https://4d-miner.fandom.com/wiki/4D_Miner?oldid=1146 (03.05.2022)
+Video (I Made Minecraft, but It's 4D): https://youtu.be/u8LMyWcKL_c
+
+
+
+=== VERSION DATA ===============================
+┌ 1_6888793789548828361
+├	Created at: 11 April 2022 – 10:20:20 UTC
+│
+├	Note: "First Version, that published with video together"
+└	
+
+┌ 2_251450560337453624:
+├	Created at: 15 April 2022 – 21:45:24 UTC
+│
+├	Mashpoe's Changelog:
+├	- Shortcuts for switching hyperplanes (CTRL+X+Z, CTRL+X+W, CTRL+Z+W)
+├	- Fixed texture bleeding
+├	- Added three difficulty modes. Easy mode has no enemies, and hard mode makes enemies deal more damage
+├	- The compass display can now be rotated by holding the right mouse button while moving your mouse
+├	- Fixed a bug that prevented entities from properly being deleted
+└
+
+┌ 3_3578740629293054374:
+├	Created at: 20 April 2022 – 18:58:49 UTC
+│
+├	CSQRB's Changelog: "Added bug report functionality"
+└
+
+┌ 4_7805041534821876166:
+├	Created at: 22 April 2022 – 05:41:23 UTC
+└	
+
+┌ 5_2684326798207689704:
+├	Created at: 23 April 2022 – 20:44:00 UTC
+└
+
+┌ 6_6158019035624334872:
+├	Created at: 23 April 2022 – 22:41:06 UTC
+└
+
+┌ 7_1354268428562580210:
+├	Created at: 23 April 2022 – 23:47:41 UTC
+└
+
+┌ 8_7545549992344619170:
+├	Created at: 7 May 2022 – 21:56:56 UTC
+│	
+├	Mashpoe's Changelog:
+├	- You can now crouch by holding SHIFT. Crouching also allows you to finally build bridges!
+├	- Strafing is finally in the game! Strafing is done by pressing Q or E while crouching.
+├	- You can now sprint by holding CTRL (I made sprinting way too fast, you might experience collision errors when colliding with unloaded chunks).
+├	- You can change your active hotbar slot by holding CTRL while scrolling, instead of holding SHIFT while scrolling like before.
+├	- Added a head bobbing animation.
+├	- Fixed a texture bug that prevented part of block textures from rendering.
+├	- Frank no longer disappears in the tutorial slideshow.
+├	- Removed Herobrine
+└
+
+┌ 9_7891815519620386140:
+├	Created at: 7 May 2022 – 23:10:02 UTC
+└
+
+┌ 10_2523908584576276834:
+├	Created at: 7 May 2022 – 23:10:02 UTC
+└
+================================================
+
+
+Example:
+┌ *INDEX*_*MANIFEST_ID*
+├	Created at: 31 December 2021 – 23:59:59 UTC
+│			<-- Separate systematic information and notes
+├	CSQRB's Changelog: "Changelog. Written by me"
+├	Mashpoe's Changelog: "Changelog, but written by Mashpoe the Develoer"
+└	Note: "Example"
+

@@ -1,0 +1,21 @@
+[Colored Fonts]
+*Font retextures*
+
+By:
+Julibugs#8155 (199645102346469376) -- Blue and rainbow font
+
+ElNico56#0201 (198550142062821376) -- Orange font
+* https://www.twitch.tv/elnico56
+* https://steamcommunity.com/profiles/76561198211307663
+
+[Blue Font]
+Published at: 05.05.2022 16:19:23 GMT
+Raw Discord Timestamp: "2022-05-05T16:19:23.597000+00:00"
+
+[Orange Font]
+Published at: 05.05.2022 16:44:34 GMT
+Raw Discord Timestamp: "2022-05-05T16:44:34.915000+00:00"
+
+[Rainbow Font]
+Published at: 05.05.2022 19:12:11 GMT
+Raw Discord Timestamp: "2022-05-05T19:12:11.692000+00:00"

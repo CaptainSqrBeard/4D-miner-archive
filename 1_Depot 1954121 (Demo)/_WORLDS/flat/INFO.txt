@@ -1,0 +1,11 @@
+[flat]
+*World*
+By: Koulatko#9332 (233622170142507009)
+
+To extract put 2 archives (flat.zip.001 and flat.zip.002) in one folder and extract flat.zip.001
+
+"it has a crazy amount of files so ideally unzip it straight where it needs to be"
+
+[Data]
+Published at: 24.04.2022 12:39:24 GMT
+Raw Discord Timestamp: "2022-04-24T12:39:24.459000+00:00"

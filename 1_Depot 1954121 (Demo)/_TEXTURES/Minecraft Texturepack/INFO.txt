@@ -1,0 +1,41 @@
+[Minecraft Texturepack]
+*Texturepack*
+
+By:
+Tameno#0647 (715569164227444766) -- Tiles
+* https://www.reddit.com/user/Tameno_
+* https://steamcommunity.com/profiles/76561198269647360
+* https://www.twitch.tv/tameno
+
+ok bye#7616 (749618443875123292) -- Sun, Moon, HP-Bar, Tiles
+* https://www.youtube.com/channel/UCo-YVx4ltkX3m_3aIgh6c7g
+
+Blitz✔#0244 (707101363762364507) -- Items, WIP Tiles, Logo
+* https://www.twitch.tv/fireblitzfurby
+* https://twitter.com/Blitz82444035
+* https://www.youtube.com/channel/UCCpo_lMoUcYgAHa6L9SdXoA
+* XBOX: fireballfurby
+
+ElNico56#0201 (198550142062821376) -- CGA Death Screen
+* https://www.twitch.tv/elnico56
+* https://steamcommunity.com/profiles/76561198211307663
+
+SirAndrewTheThird#7928 (320599509782757376) -- Death Screen, CGA Deathscreen Fixes, Music
+
+
+[Folders]
+files:
+Contain all published material, related to Minecraft Resoucepack
+
+install_ready:
+Files to replace with in 4D Miner directory
+
+for_rp_manager:
+Files to install texturepack with "4D Resource Pack Manager"
+
+
+[Data]
+No publish data, because it was creating by parts
+
+Creating since: 02.05.2022 07:17:46 GMT
+Raw Discord Timestamp: "2022-05-02T07:17:46.721000+00:00"

@@ -1,0 +1,11 @@
+[Clear Entities Script]
+*Python script*
+
+"Deletes all entities from a world other than chests"
+
+By: ShadowzOfTheDark#2840 (308776344525996034)
+* http://steamcommunity.com/profiles/76561198189435433
+
+[Data]
+Published at: 06.05.2022 01:06:31 GMT
+Raw Discord Timestamp: "2022-05-06T01:06:31.768000+00:00"

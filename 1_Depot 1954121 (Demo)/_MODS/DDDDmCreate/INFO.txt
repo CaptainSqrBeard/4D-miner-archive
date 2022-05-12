@@ -1,0 +1,13 @@
+[DDDDmCreate]
+*Library*
+
+"Library for WorldEdit"
+
+By: Tameno#0647 (715569164227444766)
+* https://www.reddit.com/user/Tameno_
+* https://steamcommunity.com/profiles/76561198269647360
+* https://www.twitch.tv/tameno
+
+[Data]
+Published at: 08.05.2022 22:00:54 GMT
+Raw Discord Timestamp: "2022-05-08T22:00:53.654000+00:00"
